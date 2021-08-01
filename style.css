@@ -1,0 +1,75 @@
+
+:root{
+
+background-color: black;
+
+
+
+}
+
+h1,h2,.p1{
+
+    color: rgb(250, 162, 0);
+
+}
+
+.head{
+
+  
+    display:flex;
+    justify-content: space-between;
+
+
+}
+
+
+.grid{
+
+
+display:flex;
+
+flex-wrap: wrap;
+
+justify-content: space-evenly;
+
+
+
+}
+
+
+
+.footer{
+
+display: flex;
+justify-content:center;
+
+
+}
+
+p,h2{
+
+text-align: center;
+
+
+}
+
+
+
+a:link{
+
+   color: white;
+}
+
+
+a:hover{
+
+    color: yellow;
+}
+
+
+a:active{
+
+    color: white;
+}
+
+
